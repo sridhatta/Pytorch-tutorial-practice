@@ -1,2 +1,2 @@
 # Pytorch-tutorial-practice
-This is just tutorial codes pf pytorch
+This is just tutorial codes of pytorch
